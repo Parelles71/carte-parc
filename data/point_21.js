@@ -1,0 +1,1 @@
+var json_point_21 = {"type":"FeatureCollection","name":"point_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"11","photo":"https://parcdesparelles.fr/wp-content/uploads/2026/08/lazais.png"},"geometry":{"type":"Point","coordinates":[1.93860181040968,46.458309729973621]}}]}
